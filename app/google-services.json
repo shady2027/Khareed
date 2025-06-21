@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246115658336",
+    "firebase_url": "https://khareed-865c8-default-rtdb.firebaseio.com",
+    "project_id": "khareed-865c8",
+    "storage_bucket": "khareed-865c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246115658336:android:bbf91ec28906e4fcb6b105",
+        "android_client_info": {
+          "package_name": "com.example.khareed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246115658336-lp18stul8rp2u7pge2t023bvbgbkjhgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khareed",
+            "certificate_hash": "dfa87a39b11f117a30b2f57ac11642dae6ce5618"
+          }
+        },
+        {
+          "client_id": "246115658336-pja0ffm9omqjvcqq1vvua7ut0af1bmdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXg14_dw-k_x7Z4M8j42n1CojMGyfsa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246115658336-pja0ffm9omqjvcqq1vvua7ut0af1bmdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

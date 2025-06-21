@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#DB3022</color>
+    <color name="green">#169955</color>
+    <color name="lightGrey">#EFEFEF</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="darkGrey">#616161</color>
+    <color name="unselected_iconColor">#616161</color>
+    <color name="selected_iconColor">#ffffff</color>
+    <color name="app_bar">#dedede</color>
+    <color name="blue_bg">#292A79</color>
+</resources>

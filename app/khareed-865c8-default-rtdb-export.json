@@ -1,0 +1,261 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/slider2.jpg?alt=media&token=c350ef7d-8451-4228-b7e5-78cf329abe38"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner1.png?alt=media&token=6cb7ba57-4cd5-434a-b668-b1c1c0237fb3"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner2.png?alt=media&token=2c2a98de-2240-4130-8a89-7fbe7e49fa21"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/apple.png?alt=media&token=228d518b-ac38-4a13-a699-f1d7d1d1ab09",
+      "title": "Fruit"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/beans_ig.png?alt=media&token=0e52a07c-2db7-4cae-a153-cd581efbfd60",
+      "title": "Beans"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/bakery_img.png?alt=media&token=a8359c57-69a9-44ce-8322-5c6f03a22779",
+      "title": "Bakery"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/cereal_img.png?alt=media&token=d192e6ca-3adc-4bff-899b-17ab56cd571b",
+      "title": "Cereal"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/bread_img.png?alt=media&token=1dfa1c5c-b332-4aeb-8095-ac363d7377f9",
+      "title": "Bread"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/dairy_ig.png?alt=media&token=04d9ef5d-f4e2-4cc5-9e4e-1c711badf5e3",
+      "title": "Dairy"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Indulge in the sweet juiciness of our freshly picked strawberries. Bursting with flavor, these vibrant red berries are the perfect addition to your morning smoothie or as a refreshing snack on a warm summer day. Packed with vitamins and antioxidants, our strawberries are a delicious and nutritious treat for the whole family.",
+      "oldPrice": 200,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/strawberry.png?alt=media&token=5014b205-5435-4d80-bf14-bc204ebb4ec6"
+      ],
+      "price": 200,
+      "rating": 4.8,
+      "review": 15,
+      "title": "Strawberry"
+    },
+    {
+      "description": "Experience the delicious crunch of our farm-fresh corn. Harvested at peak ripeness, our golden kernels are bursting with sweetness and flavor. Whether boiled, grilled, or added to your favorite dishes, our corn is a versatile ingredient that's sure to satisfy your taste buds. Rich in fiber and essential nutrients, it's a healthy addition to any meal.",
+      "oldPrice": 40,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/corn.png?alt=media&token=de3c3119-ea62-41e6-8c32-3732c45467ca"
+      ],
+      "price": 40,
+      "rating": 4.5,
+      "review": 12,
+      "title": "Corn"
+    },
+    {
+      "description": "Indulge in the creamy richness of our premium butter. Made from the finest quality milk, churned to perfection, our butter boasts a velvety texture and irresistible flavor. Spread it on warm toast, melt it over steamed vegetables, or use it for baking – its versatility knows no bounds. Elevate your culinary creations with our decadent butter.",
+      "oldPrice": 250,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/butter.png?alt=media&token=dd0f1658-71e4-4008-a48b-a3d5eb6e3db5"
+      ],
+      "price": 250,
+      "rating": 4.8,
+      "review": 20,
+      "title": "Butter"
+    },
+    {
+      "description": "Unlock the goodness of nature with our farm-fresh eggs. Packed with protein, vitamins, and minerals, our eggs are a nutritious addition to any meal. Whether you fry, boil, or scramble them, our eggs guarantee a wholesome and satisfying eating experience. From breakfast to dinner, elevate your dishes with the wholesome goodness of our eggs.",
+      "oldPrice": 6,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/eggs.png?alt=media&token=d35d18d0-a994-4b8f-9c10-52f874ffb004"
+      ],
+      "price": 6,
+      "rating": 4.7,
+      "review": 15,
+      "title": "Eggs"
+    },
+    {
+      "description": "Indulge in the tropical delight of our juicy and flavorful mangoes. Bursting with sweetness and refreshment, our mangoes are a true taste of summer. Whether eaten fresh, blended into smoothies, or added to salads, our mangoes add a vibrant touch to your culinary creations. Experience the lusciousness of ripe mangoes, handpicked for their quality and taste.",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/mango.png?alt=media&token=775c1325-95f7-40c6-9d57-f75632f986db"
+      ],
+      "price": 60,
+      "rating": 4.8,
+      "review": 20,
+      "title": "Mango"
+    },
+    {
+      "description": "Savor the rich and nutty goodness of our premium walnuts. Packed with essential nutrients and a delightful crunch, walnuts are a versatile addition to your pantry. Enjoy them as a nutritious snack, sprinkle them over salads, or incorporate them into your baking recipes for added texture and flavor. Our walnuts are carefully selected for their quality, ensuring a delectable taste experience with every bite.",
+      "oldPrice": 700,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/walnuts.png?alt=media&token=662200c6-c9b3-4552-878c-c135320a99c6"
+      ],
+      "price": 700,
+      "rating": 4.7,
+      "review": 15,
+      "title": "Walnuts"
+    },
+    {
+      "description": "Indulge in the refreshing citrus goodness of our juicy oranges. Bursting with vitamin C and natural sweetness, our oranges are the perfect pick-me-up for any time of day. Enjoy them as a tangy snack, freshly squeezed into a revitalizing juice, or sliced up to add a zesty twist to your favorite dishes. With their vibrant color and irresistible flavor, our oranges are a must-have addition to your fruit basket.",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/orange.png?alt=media&token=db027a9d-64ea-4908-8d58-8f1e6d94129a"
+      ],
+      "price": 60,
+      "rating": 4.8,
+      "review": 20,
+      "title": "Orange"
+    },
+    {
+      "description": "Add a touch of sweetness to your life with our premium-quality sugar. Made from the finest sugarcane, our sugar crystals are pure, white, and impeccably refined, ensuring superior taste and texture in every spoonful. Whether you're baking delectable desserts, stirring up refreshing beverages, or simply sweetening your morning cup of tea, our sugar is the perfect choice for all your culinary creations. Elevate your dishes with the natural sweetness of our sugar and indulge in pure bliss with every bite.",
+      "oldPrice": 40,
+      "picUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/sugar.png?alt=media&token=9cde9828-18b0-4222-972b-f39fa68bada8"
+      ],
+      "price": 40,
+      "rating": 4.5,
+      "review": 15,
+      "title": "Sugar"
+    },
+    {
+      "description": "Start your day on a healthy note with our nutritious oats. Packed with essential nutrients and fiber, our oats are a wholesome choice for breakfast that will keep you energized and satisfied throughout the morning. Whether you prefer them in a creamy bowl of oatmeal, blended into a hearty smoothie, or baked into crunchy granola bars, our versatile oats are perfect for creating a variety of delicious and nutritious dishes. Embrace a balanced lifestyle and nourish your body with the goodness of our premium-quality oats.",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/oats.png?alt=media&token=71c218e0-a653-4f28-8c5b-034feb57b174"
+      ],
+      "price": 60,
+      "rating": 4.7,
+      "review": 20,
+      "title": "Oats"
+    },
+    {
+      "description": "Indulge in the juicy sweetness of our succulent pears. Bursting with flavor and rich in vitamins and antioxidants, our pears make for a delightful and nutritious snack. Whether enjoyed fresh as a refreshing treat or incorporated into salads, desserts, and savory dishes, our premium-quality pears add a delicious touch to any meal. With their crisp texture and luscious taste, our pears are the perfect choice for satisfying your cravings and enhancing your culinary creations.",
+      "oldPrice": 80,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/pear.png?alt=media&token=ad9ea9cc-7595-47d0-a26f-d815dc2b5d3b"
+      ],
+      "price": 80,
+      "rating": 4.8,
+      "review": 15,
+      "title": "Pear"
+    },
+    {
+      "description": "Experience the vibrant flavor and versatility of our premium tomatoes. Plump, juicy, and bursting with freshness, our tomatoes are a kitchen essential for every culinary enthusiast. Whether used raw in salads, sandwiches, and salsas, or cooked into sauces, soups, and stews, our tomatoes elevate the taste of any dish with their tangy sweetness and rich aroma. Packed with essential nutrients and antioxidants, our tomatoes not only enhance the flavor of your meals but also contribute to your overall health and well-being.",
+      "oldPrice": 40,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/tomato.png?alt=media&token=522b5093-af54-42c1-81f2-7990568a41c6"
+      ],
+      "price": 40,
+      "rating": 4.7,
+      "review": 20,
+      "title": "Tomato"
+    },
+    {
+      "description": "Indulge in the refreshing and juicy sweetness of our succulent watermelons. Bursting with hydrating goodness, our premium watermelons are a delightful treat for hot summer days. Each bite delivers a symphony of flavors, from the crisp and juicy flesh to the subtle hint of sweetness. Whether enjoyed on its own, blended into refreshing smoothies, or incorporated into fruit salads, our watermelons are sure to quench your thirst and satisfy your cravings. Packed with vitamins, minerals, and antioxidants, our watermelons not only tantalize your taste buds but also provide a nourishing boost to your body.",
+      "oldPrice": 25,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/watermelon.png?alt=media&token=f339d1fa-155c-47c2-a483-342ee96d006d"
+      ],
+      "price": 25,
+      "rating": 4.8,
+      "review": 15,
+      "title": "Watermelon"
+    },
+    {
+      "description": "Crisp and vibrant, our farm-fresh carrots are a versatile addition to your culinary repertoire. Bursting with vibrant orange hues and earthy sweetness, these nutrient-packed root vegetables are a kitchen essential. Whether grated into salads, roasted to caramelized perfection, or simply enjoyed as a crunchy snack, our carrots add a delightful burst of flavor and color to any dish. Rich in beta-carotene, fiber, and antioxidants, they not only promote good health but also enhance the natural flavors of your favorite recipes.",
+      "oldPrice": 20,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/carrots.png?alt=media&token=b6b03188-1262-4cef-934a-7505cb79a4c0"
+      ],
+      "price": 20,
+      "rating": 4.7,
+      "review": 12,
+      "title": "Carrot"
+    },
+    {
+      "description": "Fresh and crisp, our cabbage is a versatile vegetable that adds a delightful crunch and subtle sweetness to your dishes. With its vibrant green leaves and sturdy texture, cabbage is perfect for salads, stir-fries, soups, and slaws. Packed with nutrients like vitamin C, vitamin K, and fiber, cabbage not only boosts your immune system but also supports digestive health. Whether sautéed, steamed, or enjoyed raw, our cabbage elevates the flavors of your favorite recipes and brings a nutritious touch to every meal.",
+      "oldPrice": 25,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/cabbage.png?alt=media&token=42feebdf-9cf5-468b-a24f-d35bd56f8c7c"
+      ],
+      "price": 25,
+      "rating": 4.5,
+      "review": 8,
+      "title": "Cabbage"
+    },
+    {
+      "description": "Our fresh and tender beans are a culinary delight, offering a burst of flavor and vibrant color to your meals. Whether you prefer green beans, snap beans, or string beans, our selection ensures top-quality produce that's perfect for any dish. Rich in vitamins, minerals, and antioxidants, beans are a nutritious addition to your diet, promoting overall health and well-being. From salads and stir-fries to casseroles and soups, our beans lend their unique taste and texture to a variety of recipes, making them a versatile staple in any kitchen.",
+      "oldPrice": 40,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/beans.png?alt=media&token=b333a522-81b5-490d-9cfd-7f598b577994"
+      ],
+      "price": 40,
+      "rating": 4.7,
+      "review": 12,
+      "title": "Beans"
+    },
+    {
+      "description": "Indulge in the crisp and verdant goodness of our fresh broccoli, known for its delightful taste and numerous health benefits. Bursting with essential vitamins, minerals, and antioxidants, broccoli is a powerhouse of nutrition that supports your overall well-being. Its tender florets and crunchy stems add a delightful texture to salads, stir-fries, soups, and more. Whether steamed, roasted, or sautéed, our premium broccoli guarantees a delectable addition to your meals. Elevate your culinary creations with this versatile and nutritious vegetable today!",
+      "oldPrice": 50,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/brocolli.png?alt=media&token=4f7dc7cd-232a-4542-93ce-172e4734d522"
+      ],
+      "price": 50,
+      "rating": 4.8,
+      "review": 15,
+      "title": "Broccoli"
+    },
+    {
+      "description": "Delight your senses with the crisp and juicy sweetness of our premium apples. Packed with essential nutrients and fiber, apples are a delicious and healthy snack choice for any time of the day. Whether enjoyed on their own or incorporated into your favorite recipes, these succulent fruits offer a refreshing burst of flavor with every bite. From classic varieties like Red Delicious and Granny Smith to exotic options like Honeycrisp and Fuji, our selection ensures a perfect apple for every palate. Experience the goodness of nature with our handpicked apples, guaranteed to satisfy your cravings and nourish your body.",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/apple.png?alt=media&token=228d518b-ac38-4a13-a699-f1d7d1d1ab09"
+      ],
+      "price": 60,
+      "rating": 4.9,
+      "review": 20,
+      "title": "Apple"
+    },
+    {
+      "description": "Indulge in the exotic tanginess of our premium kiwis. Bursting with vibrant green flesh and tiny black seeds, kiwis are a tropical delight that tantalizes your taste buds with each bite. Rich in vitamin C, fiber, and antioxidants, these small wonders offer a refreshing and nutritious snack option for health-conscious individuals. Whether enjoyed as a standalone treat, added to smoothies, or used in fruit salads, kiwis add a unique and invigorating flavor to any dish. Explore the tropical paradise with our handpicked kiwis, guaranteed to elevate your culinary experience.",
+      "oldPrice": 40,
+      "picUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/khareed-865c8.appspot.com/o/kiwi.png?alt=media&token=4b1cfded-baf9-4618-a66a-75d68c42f13c"
+      ],
+      "price": 40,
+      "rating": 4.7,
+      "review": 15,
+      "title": "Kiwi"
+    }
+  ],
+  "Review": [
+    {
+      "Description": "I recently purchased a variety of grocery items including fruits, vegetables, dairy, and nuts from this store, and I must say, I'm thoroughly impressed! Each product was of exceptional quality and freshness. ",
+      "ItemId": 4,
+      "Name": "Maya Patel",
+      "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/user_1.png?alt=media&token=c9f82979-86a2-44ea-84ff-1d2e4249773b",
+      "rating": 4.6
+    },
+    {
+      "Description": "I'm delighted to share my experience with the grocery items I ordered from this store. Every product, was of superior quality and taste. The attention to detail in selecting only the finest produce truly shines through. I wouldn't hesitate to recommend these fantastic groceries to friends and family. You won't be disappointed!",
+      "ItemId": 4,
+      "Name": "Sarah",
+      "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/user_2.png?alt=media&token=bc14e560-f851-42d7-8ca7-84f8890d0a80",
+      "rating": 4.2
+    }
+  ]
+}

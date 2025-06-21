@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Khareed" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        &lt;!&ndash; <item name="colorPrimary">@color/my_light_primary</item> &ndash;&gt;-->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize system navigation bar color -->
+        <item name="android:navigationBarColor">@color/grey</item>
+        <!-- Customize system navigation bar icons color -->
+        <item name="android:navigationIcon">@color/unselected_iconColor</item>
+    </style>
+
+    <style name="Theme.Khareed" parent="Base.Theme.Khareed">
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+        <!-- Customize system navigation bar color -->
+        <item name="android:navigationBarColor">@color/grey</item>
+        <!-- Customize system navigation bar icons color -->
+        <item name="android:navigationIcon">@color/unselected_iconColor</item>
+    </style>
+    <style name="tab_layout">
+        <item name="android:textColor">#575757</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
